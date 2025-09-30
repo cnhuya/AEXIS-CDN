@@ -1,7 +1,76 @@
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-<svg width="141px" height="141px" viewBox="-0.5 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#CCDAF5">
-<g id="SVGRepo_bgCarrier" stroke-width="0"/>
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-<g id="SVGRepo_iconCarrier"> <title>star_wars [#CCDAF5]</title> <desc>Created with Sketch.</desc> <defs> </defs> <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="Dribbble-Light-Preview" transform="translate(-60.000000, -7599.000000)" fill="#CCDAF5"> <g id="icons" transform="translate(56.000000, 160.000000)"> <path d="M18.8939465,7441.658 C21.3719927,7443.378 23,7446.246 23,7449.483 C23,7454.725 18.7320343,7459 13.5004936,7459 C8.26796571,7459 4,7454.725 4,7449.483 C4,7446.118 5.75931411,7443.152 8.40420889,7441.459 C7.5255391,7443.868 6.08708756,7445.396 6.7376981,7447.96 C7.2866199,7450.124 9.0074305,7451.558 10.5663289,7451.152 C11.9060535,7450.803 12.7017927,7449.205 12.5507405,7447.39 C12.4016628,7445.601 11.3294882,7444.619 9.99568719,7443.376 L10.9681476,7442.082 L12.8646921,7444.059 L12.0294622,7441.362 L13.6071187,7439 L15.0544557,7441.323 L14.1767732,7444.2 L16.0723305,7442.12 L16.9638348,7443.315 C15.9479345,7444.588 14.6605352,7445.369 14.6338789,7447.162 C14.6131463,7448.567 15.2282151,7450.809 16.543258,7451.152 C18.1021564,7451.558 19.8219797,7450.124 20.3718888,7447.96 C20.9464796,7445.696 19.5949078,7443.702 18.8939465,7441.658" id="star_wars-[#CCDAF5]"> </path> </g> </g> </g> </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="141px"
+   height="141px"
+   viewBox="-0.5 0 20 20"
+   version="1.1"
+   fill="#CCDAF5"
+   id="svg1"
+   sodipodi:docname="loyal_points3.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="4.047058"
+     inkscape:cx="41.017451"
+     inkscape:cy="91.795078"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0"
+     transform="matrix(0.84578588,0,0,0.84578588,1.4650341,1.5421412)" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="matrix(0.84578588,0,0,0.84578588,1.4650341,1.5421412)" />
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="matrix(0.84578588,0,0,0.84578588,1.4650341,1.5421412)">
+    <title
+       id="title1">star_wars [#CCDAF5]</title>
+    <desc
+       id="desc1">Created with Sketch.</desc>
+    <defs
+       id="defs1" />
+    <g
+       id="Page-1"
+       stroke="none"
+       stroke-width="1"
+       fill="none"
+       fill-rule="evenodd">
+      <g
+         id="Dribbble-Light-Preview"
+         transform="translate(-60,-7599)"
+         fill="#ccdaf5">
+        <g
+           id="icons"
+           transform="translate(56,160)">
+          <path
+             d="M 18.893946,7441.658 C 21.371993,7443.378 23,7446.246 23,7449.483 23,7454.725 18.732034,7459 13.500494,7459 8.2679657,7459 4,7454.725 4,7449.483 c 0,-3.365 1.7593141,-6.331 4.4042089,-8.024 -0.8786698,2.409 -2.3171213,3.937 -1.6665108,6.501 0.5489218,2.164 2.2697324,3.598 3.8286309,3.192 1.339725,-0.349 2.135464,-1.947 1.984412,-3.762 -0.149078,-1.789 -1.221253,-2.771 -2.5550538,-4.014 l 0.9724608,-1.294 1.896544,1.977 -0.83523,-2.697 1.577657,-2.362 1.447337,2.323 -0.877683,2.877 1.895557,-2.08 0.891505,1.195 c -1.0159,1.273 -2.3033,2.054 -2.329956,3.847 -0.02073,1.405 0.594336,3.647 1.909379,3.99 1.558898,0.406 3.278722,-1.028 3.828631,-3.192 0.574591,-2.264 -0.776981,-4.258 -1.477943,-6.302"
+             id="star_wars-[#CCDAF5]" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
